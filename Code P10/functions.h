@@ -1,12 +1,4 @@
-//******************************************************************************
-//
-//  Description: This file contains the Function prototypes
-//
-//  Jim Carlson
-//  Aug 2013
-//  Built with IAR Embedded Workbench Version: V4.10A/W32 (5.40.1)
-//******************************************************************************
-// Functions
+
 
 // Main
 void main(void);
